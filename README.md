@@ -1,4 +1,6 @@
 # Praktikum_Testing_2072007
+2072007 - Michael Mathew Setiadi 
+
 1. Apa saja manfaat automated testing?
 - Waktu yang dibutuhkan untuk melakukan pengujian jadi lebih singkat karena tester gak perlu membuka secara manual aplikasi yang bakal diuji dan gak perlu mengetik data input yang diperlukan
 - Tester dapat melakukan pengujian dengan kasus yang sangat banyak tanpa usaha yang berlebihan
